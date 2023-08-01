@@ -1,0 +1,4 @@
+# Ignore all the CSV files provided by AZ Direct GmbH
+*.csv
+
+
