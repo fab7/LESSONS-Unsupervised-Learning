@@ -1,5 +1,5 @@
 # LESSONS-Unsupervised-Learning
-A repo for my Udacity lesson exercises on Unsupervised Learning.
+A repo for my Udacity lessons, exercises and final project on Unsupervised Learning.
 
 ## How To
 
